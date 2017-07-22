@@ -3,7 +3,7 @@
 **Instructions: ** Define each of the following Git concepts.
 
 * What is version control?  Why is it useful?
-Version control is a system that records changes to a file over time so that you can recall specific versions later. It allows you to keep track of your work at scale across larger dev teams with enormous code bases.
+Version control is a system that records changes to a file over time so that you can recall specific versions later. It allows you to keep track of your work at scale.
 
 * What is a branch and why would you use one?
 It is an isolated replica of the orginal (master branch) code base
